@@ -18,7 +18,7 @@ README Language: English(Current) / [简体中文](https://github.com/SLSYSL/Sou
 - Run the program directly.
 
 #### Method 2:
-- Run in Command Prompt (CMD) or PowerShell: .\SoundCtrl.exe back
+- Run in Command Prompt (CMD) or PowerShell: `.\SoundCtrl.exe back`
 
 ### Command Line Mode
 Run in Command Prompt (CMD) or PowerShell:
