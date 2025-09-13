@@ -1,6 +1,8 @@
 # SoundCtrl / 音频控制
 一个轻量级的 Windows 媒体控制工具，允许您通过命令行或全局热键快速控制媒体播放。
 
+README 语言: [English](https://github.com/SLSYSL/SoundCtrl/blob/main/README.md) / 简体中文(当前语言)
+
 ## 功能特点
 - 🎵 媒体播放控制（播放/暂停、上一首、下一首、停止）
 - 🔊 音量控制（增加、减少、静音切换）
