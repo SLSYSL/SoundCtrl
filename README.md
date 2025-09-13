@@ -37,14 +37,14 @@ Command Examples:
 
 ## Hotkeys for Background Mode
 
-- `<kbd>Right Ctrl + Q</kbd>` - Exit the program
-- `<kbd>Right Ctrl + F1</kbd>` - Play/Pause
-- `<kbd>Right Ctrl + F2</kbd>` - Previous Track
-- `<kbd>Right Ctrl + F3</kbd>` - Next Track
-- `<kbd>Right Ctrl + F4</kbd>` - Increase Volume (increases by 2 levels each time)
-- `<kbd>Right Ctrl + F5</kbd>` - Decrease Volume (decreases by 2 levels each time)
-- `<kbd>Right Ctrl + F6</kbd>` - Mute/Unmute
-- `<kbd>Right Ctrl + F7</kbd>` - Stop Playback
+- <kbd>Right Ctrl + Q</kbd> - Exit the program
+- <kbd>Right Ctrl + F1</kbd> - Play/Pause
+- <kbd>Right Ctrl + F2</kbd> - Previous Track
+- <kbd>Right Ctrl + F3</kbd> - Next Track
+- <kbd>Right Ctrl + F4</kbd> - Increase Volume (increases by 2 levels each time)
+- <kbd>Right Ctrl + F5</kbd> - Decrease Volume (decreases by 2 levels each time)
+- <kbd>Right Ctrl + F6</kbd> - Mute/Unmute
+- <kbd>Right Ctrl + F7</kbd> - Stop Playback
 
 ## Virtual Key Code Correspondence
 
