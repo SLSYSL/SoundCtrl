@@ -18,10 +18,10 @@ README 語言：[English](https://github.com/SLSYSL/SoundCtrl/blob/main/README.m
 - 直接運行程式
 
 #### 方法二：
-- 命令提示符（CMD）或PowerShell中運行：`.\SoundCtrl.exe back`
+- 命令提示符（CMD）或 PowerShell 中運行：`.\SoundCtrl.exe back`
 
 ### 命令列模式
-在命令提示符（CMD）或PowerShell中運行：
+在命令提示符（CMD）或 PowerShell 中運行：
 ```bash
 .\SoundCtrl.exe <命令>
 ```
