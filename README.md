@@ -1,7 +1,7 @@
 # SoundCtrl / Audio Control
 A lightweight Windows media control tool that allows you to quickly control media playback via the command line or global hotkeys.
 
-README Language: English(Current) / [简体中文](https://github.com/SLSYSL/SoundCtrl/blob/main/README_schinese.md)
+README Language: English(Current) / [简体中文](https://github.com/SLSYSL/SoundCtrl/blob/main/README_schinese.md) / [繁體中文](https://github.com/SLSYSL/SoundCtrl/blob/main/README_tchinese.md)
 
 ## Features
 - 🎵 Media Playback Control (Play/Pause, Previous Track, Next Track, Stop)
