@@ -35,6 +35,15 @@ Command Examples:
 
 - `.\SoundCtrl.exe back` - Background Mode
 
+### Command
+- `play` - Play/Pause
+- `next` - Next Track
+- `prev` - Previous Track
+- `up` - Increase Volume (increases by 2 levels each time)
+- `down` - Decrease Volume (decreases by 2 levels each time)
+- `mute` - Mute/Unmute
+- `stop` - Stop Playback
+
 ## Hotkeys for Background Mode
 
 - <kbd>Right Ctrl + Q</kbd> - Exit the program
