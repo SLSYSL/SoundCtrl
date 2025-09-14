@@ -30,6 +30,15 @@ README 语言: [English](https://github.com/SLSYSL/SoundCtrl/blob/main/README.md
 - `.\SoundCtrl.exe next` - 下一首
 - `.\SoundCtrl.exe back` - 后台模式
 
+### 命令
+- `play` - 播放/暂停
+- `next` - 下一首
+- `prev` - 上一首
+- `up` - 增加音量 (每次增加两格音量)
+- `down` - 减少音量 (每次减少两格音量)
+- `mute` - 静音/取消静音
+- `stop` - 停止播放
+
 ## 后台模式热键
 - <kbd>右Ctrl + Q</kbd> - 退出程序
 - <kbd>右Ctrl + F1</kbd> - 播放/暂停
