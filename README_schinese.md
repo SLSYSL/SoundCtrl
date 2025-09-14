@@ -7,7 +7,7 @@ README 语言: [English](https://github.com/SLSYSL/SoundCtrl/blob/main/README.md
 - 🎵 媒体播放控制（播放/暂停、上一首、下一首、停止）
 - 🔊 音量控制（增加、减少、静音切换）
 - ⌨️ 全局热键支持（后台模式）
-- 🚀 轻量级，无依赖，原生Windows API实现
+- 🚀 轻量级，无依赖，原生 Windows API 实现
 
 ## 系统要求
 - Windows 7 或更高版本
